@@ -1,0 +1,445 @@
+
+  @font-face {
+    font-family: exo-medium;
+    src: url('../fonts/Exo-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+    @font-face {
+    font-family: exo-bold;
+    src: url('../fonts/Exo-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+.containertrvm{
+   font-family: exo-medium;
+}
+.containertrvm a,
+.containertrvm button {
+  cursor: pointer;
+}
+.containertrvm img {
+  width: 100%;
+}
+.containertrvm h1,
+.containertrvm h2,
+.containertrvm h3,
+.containertrvm h4,
+.containertrvm h5 {
+  font-family: exo-bold;
+}
+.containertrvm .sectionbanner {
+  background: url('../images/banrimageone.jpg');
+  background-size: 100% 100%;
+}
+.containertrvm .sectionbanner .banerimgtwo {
+  width: 50%;
+  margin: 0 auto;
+}
+.containertrvm .sectionbanner .logo {
+  width: 240px;
+  margin-top: 30px;
+}
+.containertrvm .sectionbanner h2 {
+  font-size: 35px;
+  color: #fff;
+  margin-top: 88px;
+  text-transform: uppercase;
+}
+.containertrvm .sectionbanner h6 {
+  font-size: 18px;
+  color: #fff;
+  padding-bottom: 130px;
+}
+.containertrvm .sectionmiddle h2 {
+  font-size: 30px;
+  color: #000;
+  padding-top: 68px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.containertrvm .sectionmiddle h6 {
+  font-size: 21px;
+  color: #444444;
+  font-weight: bold;
+  margin-bottom: 27px;
+}
+.containertrvm .spone {
+  background: #1e8bdd;
+  color: #fff;
+}
+.containertrvm .sectionmiddle {
+  background: #e9e9e9;
+}
+.containertrvm .sectionmiddle .sectmiddleone {
+  background: #fff;
+  border: 1px solid #d3d3d3;
+  border-radius: 4px;
+}
+.containertrvm .sectmiddleone {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.containertrvm .sectmiddleone h3 {
+  font-size: 21px;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.containertrvm .sectmiddleone h4 {
+  font-size: 18px;
+  color: #444444;
+  font-family: exo-medium;
+}
+.containertrvm .poplink {
+  font-size: 16px;
+  color: #1e8bdd;
+  text-decoration: underline;
+}
+.containertrvm .iconone {
+  width: 22px;
+  height: 22px;
+  display: block;
+  margin-right: 8px;
+}
+.containertrvm .iconone img {
+  vertical-align: initial;
+}
+.containertrvm .redbtn {
+  background: #d10910;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  outline: none;
+  border: none;
+  margin-top: 5px;
+  margin: 18px 0;
+  font-weight: bold;
+}
+.containertrvm .poplinkz {
+  color: #d10910;
+  font-size: 18px;
+  font-weight: bold;
+  padding-left: 32px;
+  font-family: exo-bold;
+}
+.containertrvm .looptext {
+  font-size: 18px;
+  color: #222222;
+}
+.containertrvm .looptext .iconone {
+  width: 25px;
+  height: 20px;
+}
+.containertrvm .looptext .icontwo {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+}
+.containertrvm .looptext .iconone img {
+  width: 100%;
+}
+.containertrvm .looptext .icontwo img {
+  width: 100%;
+  display: block;
+}
+.containertrvm .looptextnew {
+  font-size: 15px;
+  color: #444444;
+}
+.containertrvm .colorbaktwo {
+  background: #f1f8fe;
+  margin-left: -28px;
+}
+.containertrvm .sectintwo {
+  position: relative;
+}
+.containertrvm .sectinthree {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #1e8bdd;
+  font-size: 16px;
+  color: #fff;
+  padding: 7px 18px;
+}
+.containertrvm .sectionredclr {
+  background: #e40542;
+}
+.containertrvm .sectionredclr h3 {
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 71px;
+}
+.containertrvm .sectiongrey {
+  background: url('../images/bannewrtwo.jpg');
+  background-size: 100% 100%;
+  padding: 90px 0 146px 0;
+}
+.containertrvm .sectgreyin h3 {
+  font-size: 30px;
+  color: #000;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.containertrvm .sectgreyin p {
+  font-size: 17px;
+  color: #444444;
+  margin-top: 40px;
+}
+.containertrvm .sectionwhite {
+  padding: 60px 0;
+  background: #fafbff;
+}
+.containertrvm .sectionwhite h3 {
+  padding: 10px 0 0 0;
+  font-size: 30px;
+  color: #000;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.containertrvm .videotxt {
+  padding: 30px 0;
+  background: #ffffff;
+}
+.containertrvm .videotxt h4 {
+  font-size: 17px;
+  color: #000;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 14px;
+  text-align: center;
+}
+.containertrvm .videotxt h5 {
+  font-size: 18px;
+  color: #333333;
+  text-align: center;
+  margin: 0;
+  font-family: exo-medium;
+}
+.containertrvm .sectionwhite iframe {
+  width: 100%;
+  height: 200px;
+}
+.containertrvm .sectlast {
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid #e9e6ff;
+}
+.containertrvm .overlay-button {
+  position: absolute;
+  top: 52%;
+  left: 52%;
+  width: 100px;
+  height: 100px;
+  margin: -50px 0 0 -50px;
+  background: url(../images/playbtn.png) no-repeat;
+  pointer-events: none;
+}
+.containertrvm .sectinvedio {
+  position: relative;
+}
+.containertrvm footer {
+  background: #081e2f;
+}
+.containertrvm footer h6 {
+  padding: 28px 0;
+  text-align: center;
+  font-size: 14px;
+  color: #cae1fc;
+  margin-bottom: 0;
+}
+.containertrvm .imgsprite {
+  width: 112px;
+  height: 112px;
+}
+.containertrvm .sectionredclr h6 {
+  font-size: 16px;
+  color: #ffffff;
+  text-align: center;
+}
+.containertrvm .sectionredclr h5 {
+  font-size: 16px;
+  color: #feb9c8;
+  text-align: center;
+  padding: 45px 0 65px 0;
+  margin: 0;
+}
+.containertrvm .sectionredclr ul {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.containertrvm .sectionredclr li {
+  display: block;
+  margin: 30px 1%;
+  width: 116px;
+}
+.containertrvm .redclrtwo li {
+  margin: 0px 2.5% 60px 2.5%;
+}
+.containertrvm .redclrtwo {
+  background: #df1536;
+}
+.containertrvm .sectionredclr ul li:nth-child(1) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -35px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(2) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -177px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(3) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -301px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(4) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -430px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(5) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -563px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(6) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -677px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(7) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -792px 27px;
+}
+.containertrvm .sectionredclr ul li:nth-child(8) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -884px 27px;
+}
+.containertrvm .sectionredclr ul li:nth-child(9) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1857px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(10) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1400px 24px;
+}
+.containertrvm .sectionredclr ul li:nth-child(11) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1558px 26px;
+}
+.containertrvm .sectionredclr ul li:nth-child(12) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1701px 26px;
+}
+.containertrvm .sectionredclr ul li:nth-child(13) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1287px 20px;
+}
+.containertrvm .sectionredclr ul li:nth-child(14) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1147px 19px;
+}
+.containertrvm .sectionredclr ul li:nth-child(15) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1998px 26px;
+}
+.containertrvm .sectionredclr ul li:nth-child(16) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -62% 24px;
+}
+.containertrvm .redclrtwo ul li:nth-child(1) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -563px 24px;
+}
+.containertrvm .redclrtwo ul li:nth-child(2) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -884px 24px;
+}
+.containertrvm .redclrtwo ul li:nth-child(3) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -1147px 19px;
+}
+.containertrvm .redclrtwo ul li:nth-child(4) .imgsprite {
+  background: url(../images/spriteimgone.png);
+  background-position: -177px 24px;
+}
+
+
+@media (max-width: 575px) { 
+.containertrvm .sectionbanner {
+  background: url('../images/banrimageonemob.jpg');
+  background-size: 100% 100%;
+}
+.containertrvm .sectionbanner h2 {
+  font-size: 25px;
+  margin-top: 13px;
+}
+.containertrvm .sectionbanner h6 {
+  padding-bottom: 23px;
+}
+.containertrvm .sectionmiddle h2 {
+  font-size: 25px;
+  padding-top: 34px;
+}
+.containertrvm .poplinkz {
+  padding-left: 0;
+  font-size: 14px;
+}
+.containertrvm .poplink {
+  font-size: 14px;
+}
+.containertrvm .redbtn {
+  width: 100% !important;
+}
+.containertrvm .colorbaktwo {
+  margin-left: -15px;
+  padding-bottom: 12px;
+}
+.containertrvm .sectnewstyle {
+  margin: 10px 10px 0 10px;
+}
+.containertrvm .sectmiddleone {
+  padding: 0;
+}
+.containertrvm .sectintwo {
+  margin: 0 -15px;
+}
+.containertrvm .sectionredclr li {
+  margin: 30px 3.5%;
+}
+.containertrvm .sectinthree {
+  top: 0;
+  bottom: inherit;
+}
+.lb-prev,.lb-next{
+  display: block !important;
+  opacity: 1 !important;
+}
+}
+@media (max-width: 768px) { 
+.containertrvm .sectionbanner .banerimgtwo {
+  width: 80%;
+}
+.containertrvm .sectionbanner h2 {
+  font-size: 25px;
+}
+.containertrvm .sectionbanner h6 {
+  font-size: 12px;
+}
+.containertrvm .sectiongrey {
+  background: url('../images/bannewrtwo.jpg');
+  background-size: cover;
+  padding: 20px 0 20px 0;
+}
+
+}
+@media (max-width: 992px) { 
+.containertrvm .colorbaktwo{
+	margin-left: -15px;
+	padding-top:12px; 
+}
+
+}
+

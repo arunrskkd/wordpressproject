@@ -5,7 +5,7 @@ Template Name: asd
 
 */
 ?>
-<!-- asdasdasd -->
+
 <!DOCTYPE html>
 <html lang="en">
 

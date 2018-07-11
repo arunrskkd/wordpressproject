@@ -587,7 +587,7 @@ Template Name: asd
           </div>
         </div>
         <!-- repeat section end -->
-        <!-- repeat section -->
+        <!-- repeat section sgit-->
         <div class="row mt-3 sectmiddleone">
           <div class=" col-lg-4 col-mg-12  ">
             <div class="sectintwo">
